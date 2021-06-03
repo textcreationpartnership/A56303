@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Purge for pluralities shewing the unlawfulnesse of men to have two livings, or, The downe-fall of double benefices being in the clymactericall and fatall yeare of the proud prelates : but the yeare of iubilee to all poore hunger-pinch'd schollers.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56303</idno><idno type="EEBO-CITATION">12621276</idno>
+  <idno type="VID">64525</idno>
+  <idno type="EEBO-PROQUEST">2240953212</idno>
+  
+            <idno type="STC">Wing P4230</idno>
+            <idno type="STC">ESTC R22493</idno>
+            <idno type="OCLC">12621276</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E143, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Purge for pluralities shewing the unlawfulnesse of men to have two livings, or, The downe-fall of double benefices being in the clymactericall and fatall yeare of the proud prelates : but the yeare of iubilee to all poore hunger-pinch'd schollers.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cowles, T. Bates, and T. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Benefices, Ecclesiastical.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64525:1"/>
+            <p>A Purge for Pluralities, shewing the unlawful<g ref="char:EOLhyphen"/>nesse of men to have two Livings.</p>
+            <p>OR <hi>The Downe-fall of Double Benefices.</hi>
+            </p>
+            <p>Being in the Clymactericall and fatall yeare of the proud Prelates.</p>
+            <p>But the yeare of <hi>Iubilee</hi> to all poore hunger-pinch'd Schollers.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>F. Cowles, T. Bates,</hi> and <hi>T. Banks.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:64525:2"/>
+            <head>A Purge for Pluralities: Shewing The unlawfulnesse of men to have two Livings. OR <hi>The Downe-fall of Double Benefices.</hi>
+            </head>
+            <sp>
+               <speaker>Dr. <hi>Lazie.</hi>
+               </speaker>
+               <p>
+                  <seg rend="decorInit">A</seg>H Brother Doctor <hi>Symony,</hi> well met, where have you beene posting here<g ref="char:EOLhyphen"/>awayes? I beleeve there is some good Benefice fallen in these Coasts, which you scent after; Ravens and Vultur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are not quicker of wing, or smell af<g ref="char:EOLhyphen"/>ter a dead horse, than you be after a fat Living of three or foure hundred pounds <hi>per annum:</hi> I ghesse shrewdly, I see by your horses sides that you have rid hard for it.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Symony.</hi>
+               </speaker>
+               <p>Shall I deale plainly with you, I am glad to see you in health, I have not spared horse-flesh, I confesse; good Parsonages are worth riding for, I have very faire hopes that I shall be your neighbour, I must come by it by buying it; Patrons or Patronesses are hard now adayes, but it is but giving two or three hundred pounds for his or her youngest daughter portions, and then I am cock-sure, all is our owne: tush, that is nothing amongst us (you know) we
+<pb n="3" facs="tcp:64525:2"/> can dispence with our oaths, it is got up in two yeares a<g ref="char:EOLhyphen"/>gaine. I intend to shew him <hi>Melchizedechs</hi> father and grand-father too (you know the story) before I will lose such a brave Benefice. Pish, hee that makes conscience of an oath in this kind, will dye as poore as Philosopher, or a preaching Curate.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Lazie.</hi>
+               </speaker>
+               <p>In troth, good brother Doctor, you goe tho right way to the wood, hee that thinks to get a Living freely without cost, may hope to catch fish without a bait: when I got this Parsonage, the Patron told mee of divers good Di<g ref="char:EOLhyphen"/>vines and constant Preachers, as Mr. <hi>Honestie,</hi> Mr. <hi>Simplicitie,</hi> Mr. <hi>Diligence,</hi> Mr. <hi>Zeale,</hi> Mr. <hi>Pietie,</hi> Mr. <hi>Puritie,</hi> and many others, who had sollicited him by letters of commendation to get the Living; but alas, said he, these be but Papers, good men they be, but they are as poore as <hi>Iob:</hi> upon which words I presently felt how his pulses beat, &amp; as a cunning In<g ref="char:EOLhyphen"/>gineere undermined him quickly, and told him that hee had such <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nag in his stable, that I liked wondrous well for my wifes use to ride upon, and shee was so desirous to have the horse, that I would give him two hundred pounds in good gold for him, rather than she should misse of her desir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; he presently yeelded to the motion, and told me moreover, hee had an excellent bay Gelding in his stable, that would carrie double, which would be very convenient for my use. I replyed, that I would give him an hundred pounds for him also. So we bargained, and in the conclusion he said; Good Mr. Dr. <hi>Lazie,</hi> I know you to be a man, who are not too hot nor too often in the pulpit, I have now a living of three hundred pounds a yeare voyd, I will freely bestow the Pre<g ref="char:EOLhyphen"/>sentation upon your selfe: it was done presently, and I came riding home well mounted and doubly beneficed, when alas poore men they went away as poore as they came: was not this a prettie handsome way to blind the eyes of men from judging it Symony? This is but an ordinarie cheat.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Sym.</hi>
+               </speaker>
+               <p>Alas! Brother Doctor, I will tell you a story of mine, that was as well contrived as this, we must not be nice, nor too scrupulous, if wee meane to goe double char<g ref="char:EOLhyphen"/>ged: There fell a good Living into the hands of a covetous
+<pb n="4" facs="tcp:64525:3"/> Patron, great suit was made for it by divers, but they all came without money, and so the Patron gave them go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d words to keep up their hopes a while: I observing that they all came short of their expectations, began to consult with my selfe what might be the easiest and su<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est way to speed. At last, it being neere New-yeares day, I resolved to present thi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pa<g ref="char:EOLhyphen"/>tron a New-yeares gift, I went and bought a couple of dou<g ref="char:EOLhyphen"/>ble gilt fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ggons, and I filled one with stout <hi>Hyppocras,</hi> and the other with gold and silver; I drew a petition, to desire him to bestow such a Parsonage upon me freely: well, hee t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sted the wine, vowed he never drunk better. No, Sir, said I, I am glad of it heartily; but yet sir, I dare be bold to say it, that if it please your go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Worship to withdraw your selfe in<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o your Closet, I have better liquor by far in this other flaggon. I am content; said he; and so we two went private<g ref="char:EOLhyphen"/>ly, I presented him the flaggon well lined, hee powred out yellow and white metall. I marry, said hee, this is the only r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch ple<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sant liquor of all others. I told him it was the first fruits of his Parsonage. Is it possible, said he? Yes Sir said I. He replyed. I am well pleased with the first fruits, and take you the Living for your selfe. Was this any symony think you, Brother Doctor <hi>Lazie?</hi> This is an undenyable way to speed.</p>
+            </sp>
+            <sp>
+               <speaker>Dr <hi>Lazie.</hi>
+               </speaker>
+               <p>Well, you know the right way I perceive to pref<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rments; but brother, I pray you what newes is there sti ring? I heare that which grieves my heart to think on, it is commonly spoken that we must now turne to be Preachers tw ce a day, and yet have but one living neither; I had one g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by a Popish Patron, conditionally that I should preach but once in a whole yeare at it: I liked that motion, and so hold it: and for this other, the Bishop of the Dio<g ref="char:EOLhyphen"/>cesse cares not for preaching too often, and so I give my Pa<g ref="char:EOLhyphen"/>rishi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners one Sermon in an halfe yeare and no more, which I value at an hundred and fiftie pounds every Sermon. And I usually do spend my time at London, either in Westminster-Hall, or at Doctors Commons, or else in some handsome G ntlewomans company or other, at Gl ck, Doublets, or some such like game: for though I professe the Gospell, yet I fellow the Law: but now if this be true, we shal not have any
+<pb n="5" facs="tcp:64525:3"/> spare time being tyed to goe to our ploughs twice every Sun<g ref="char:EOLhyphen"/>day, nor shall we find money if one of our Benefices be taken from us: I protest to you, I did usually spend all the meanes of on<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my Benefices in good wine and Lawyers fees; but if the wind blow at this doore, I may put up my pipes, for I cannot endure to preach so often, unlesse it be one &amp; the selfe same Sermon; it will breake my heart: it were best for us to have Bishops still, for they would give licences and dispen<g ref="char:EOLhyphen"/>sations, and an Homily once a moneth would serve the turne then, wee must be tyed to our pulpits, as horses to the mill. What say you brother to this?</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Sym.</hi>
+               </speaker>
+               <p>Ile promise you that hath cooled my courage, if it come to that passe I am undone, to lose our Lordly Bishops one day, our livings on another day, and our selves on a third: It is said that the Tower hath wrought strange effects on them, when they were at libertie they were silent, and would not preach, now they are very busie at work, seeing the r case goes so ill on at Law, they will now follow the Gospell But brother <hi>Lazie,</hi> they are Schollers, and well studied and grounded, and therefore have abilitie to preach: but you and I, and hundreds more beside, will be to seek, for I think you came in more by your wealth than by your wit, as I did: this preaching twice a day is worse for us, than for a Coward to lye <hi>perdu</hi> in the face of his enemies.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Lazie.</hi>
+               </speaker>
+               <p>Nay, brother <hi>Symony,</hi> it is not only that wee must preach so often doth gall me, but that we must be fleeced of our meanes; oh how proud and brisk will all our Hire<g ref="char:EOLhyphen"/>ling Curates and Lecturers be, how Pedantiques and Vshers, and poore Students in the Vniversities w ll even out-face us; we have made them travell hard from one Pari<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to another for a good word from us, a dinner, and twelve pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce hire, for preaching and reading Prayers for us on a Sunday; but now they will bee come to bee our Equals, and will get the love of the people from us, because they are for the most part better Preachers than we be. I had my Cura<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in former times as fearfull to offend mine injunctions, as a poor Galley-slave his Torm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntour, and yet I allowed him but five pounds a yeare, and leave to teach a little Schoole in the Bell-free loft,
+<pb n="6" facs="tcp:64525:4"/> worth foure pounds more, while I sate at ease, and had foure hundred pounds a yeare for doing nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Sym.</hi>
+               </speaker>
+               <p>Alas, brother, it is as I understand too true, that we must part with one of our Livings, had I knowne or drea<g ref="char:EOLhyphen"/>med but so much, I would have had my money in my purse still, which I lately gave for my last Parsonage, and I protest I scarce have recovered that which I disbursed for my other Benefice; nay, I am a greater Loser than you by farre, for I must part with two good Prebendships, worth five hundred pounds a yeare; ah, those were the bravest flowers in my Garden, for I tooke that money for preach<g ref="char:EOLhyphen"/>ing but once in a yeare, and I did not supply that course my selfe (for in troth, brother <hi>Lazie,</hi> to speake in conscience, these Prebendaries spoyle good Preachers) but writ a let<g ref="char:EOLhyphen"/>ter to some friend to supply it for mee, or at most it was but paying a Noble, or ten shillings at uttermost, and a paire of white gloves, to some poore Minister neere the Cathedrall, and it was done as compleatly, nay far better than if I had been there my selfe; for I never cared for this exercise cal<g ref="char:EOLhyphen"/>led preaching, it is tedious to flesh and bloud, I have neither good gift, good utterance, nor good conscience to sweat in that place: it grieved me as much to come into a pulpit, as it did the Bishops to go to the Tower: I promise you, if I heare no better newes, I will passe off all mine for money speedily, and so live upon that.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Lazie.</hi>
+               </speaker>
+               <p>In troth you say well, I will not be much be<g ref="char:EOLhyphen"/>hind you; but this is as bad to me as the Dog-dayes be to a sick man: Come however, I will walk with you to the next Taverne, &amp; shut up this sad newes with a cup of good Cana<g ref="char:EOLhyphen"/>ry to comfort our hearts, we have had a fine harvest for many yeares together, It is fit that they who have taken the paines, should at last enjoy the meanes.</p>
+            </sp>
+            <p>I cannot blame our Pluralists, though one living cannot content them, since I heard a double benefic'd arrant Dunce preach, he taking that for his Text out of <hi>Ecclesiastes, Two are better than one;</hi> which he interpreted to be of a double Bene<g ref="char:EOLhyphen"/>fice: hee being afterward asked the reason, his answer was, that if one of his Parishes were infected with the pox or plague, his wife and he might betake themselves to another,
+<pb n="7" facs="tcp:64525:4"/> when indeed the Parish could not have a worse plague than him<g ref="char:EOLhyphen"/>self, for he preached but once a quarter, &amp; hardly that, &amp; commonly he would read Morning Prayer with his children in his armes, and a great Mastive whelp in his round hose, which a Gentleman ob<g ref="char:EOLhyphen"/>serving, putting a pin into the end of his horse wand, prickt the Puppie behind him, which grinning and barking, the Parson was faine to give over reading the first lesson to call his Clerk to pull him out by the heeles.</p>
+            <p>And these fellowes are commonly advanced by Dunsticall and greedy Patrons, who under-hand share with them in the greater part of the Living, at least reserve their owne Tythes, or agree for as much bread and drink-corne as will find their houses all the yeare; but indeed they keep miserable houses, and sell it: one day I drank of their Beere, which was little better than that the Low-Countrey-Frogs drink, and somewhat too good to drive a waser<g ref="char:EOLhyphen"/>mill.</p>
+            <p>It is true in Popish and corrupt times, Cardinals, Bishops, Deans, and others were so laden with Ecclesiasticall Livings, that at last their backs broke: As for example, Cardinall <hi>Woolsey,</hi> who had foure or five Bishopricks and Abbeyes at once, who list to see what they were, let them but look into the hall of White-Hall which he builded, beneath the rafters, where with his Cardinals Hat they are to be seene.</p>
+            <p>A Pluralist in the countrey commonly is so proud, that he over<g ref="char:EOLhyphen"/>looks a single benefic'd man: and at Visitations and Weddings will take the place at the Table above him: Nay, he cannot abide the name of <hi>single;</hi> he will drink no single Beere, nor by his good will ride single, but will have his wife behind him: nay, he scorns to be singular in his preaching, but will yeeld to Vniversitie men, who are unbeneficed, and know not when they shall get a Bene<g ref="char:EOLhyphen"/>fice, whether ever or never. He can decline <hi>Ambo</hi> and <hi>Duo,</hi> but the proper names of countries, cities and men, where the Gram<g ref="char:EOLhyphen"/>mar sayes, <hi>Plurima ne fuerint,</hi> hee thinks them not worthy the na<g ref="char:EOLhyphen"/>ming, neither shall you ever see him walk the street in single-sol'd shooes or boots; but in winter time three or foure soles of the best Spanish leather.</p>
+            <p>In a word, Pluralities are the plague of the whole land, the mi<g ref="char:EOLhyphen"/>serie of our Vniversities, the discouragement of Students, the de<g ref="char:EOLhyphen"/>struction
+<pb n="8" facs="tcp:64525:5"/> of soules, when they place in them simple Sir <hi>Iohn</hi> the Priest, that can doe no more than read English, and many times hardly that, as one in my hearing read for <hi>Derbe and Lystra</hi> (whi<g ref="char:EOLhyphen"/>ther S. <hi>Paul</hi> travelled) <hi>Derbie and Leicester:</hi> another, for <hi>Saddle for me an Ass</hi> (said more truly than he was aware of) <hi>Saddle me for an Asse.</hi>
+            </p>
+            <p>It is no more fitting for a Clergy-man to have two, three, foure, nay five Livings, besides a Prebend<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry or two, which is <hi>sine cura a<g ref="char:EOLhyphen"/>rimae,</hi> than for him to have two wives; for God gave man at first but one wife, and one living or char<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e but now they will have two livings to keep one wife, one in the Citie, and another in the Coun<g ref="char:EOLhyphen"/>trey; one for pleasure, the other for profi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. One living well fol<g ref="char:EOLhyphen"/>lowed, and discharged by Gods command, as yee ought to doe, i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough; and mark, for if any of these men had two or three Chur<g ref="char:EOLhyphen"/>ches or Charges, and but one Living, they would think it a great burden, and soone grow wearie of the rest: I beseech you that are in place of authoritie but try them, and they will soone leave their Livings of their owne accord; for what they doe they should doe only for Gods service and glory, and not for their owne profit and lucre. And as for the Prebendaries, they serve only to make them fat, and proud, and lecherous.</p>
+            <p>They say there are now but onely two Pluralities in all Eng<g ref="char:EOLhyphen"/>land, but I hope the Honourable House of Parliament will find many, and timely provide for able Schollers who want meanes, and walk the streets like <hi>Pharaohs</hi> leane Kine, when such fat Buls of Basan do waddle as fat as they can tumble.</p>
+            <p>How many of late yeares have letters preferred to their Degree, mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e than their Logick or Latine, <hi>Haud ignota cano,</hi> and that for<g ref="char:EOLhyphen"/>sooth must be a priviledge for a Pluralitie.</p>
+            <p>There was a double benefic'd Parson in Devon-shire, who when he was invited to a Gentlemans house, and desired to say grace at a dinner, told them, his memorie was bad, and hee could not then, then hee was entreated to say the Lords Prayer, that hee could not neither; so a little daughter of the Gentlemans, of eight yeares of age, was faine to supply the Parsons roome.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
